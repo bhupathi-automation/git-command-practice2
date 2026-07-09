@@ -5,5 +5,8 @@ public class GitTest1 {
         System.out.println("This is test1 - second statement");
     }
 
+    public void method1(){
+        System.out.println("This is method1 - changed");
+    }
 
 }
