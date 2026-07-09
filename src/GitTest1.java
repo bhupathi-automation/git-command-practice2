@@ -9,4 +9,8 @@ public class GitTest1 {
         System.out.println("This is method1 - changed");
     }
 
+    public void method2(){
+        System.out.println("This is method2");
+    }
+
 }
